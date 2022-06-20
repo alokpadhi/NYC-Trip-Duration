@@ -2,7 +2,9 @@
 An end-to-end machine learning project for NYC taxi trip
 
 **Objective**: Build a machine learning productionized application to predict the ride duration of NYC taxis
+
 **Goal**: To learn the end-to-end aspect of deploying machine learning models
+
 **Learnings**:
   * Experiment Tracking with MLFlow
   * Model management with MLFlow
