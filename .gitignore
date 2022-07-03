@@ -1,2 +1,7 @@
 # Model files
 models/*
+
+# prefect storage files
+.prefect/*
+
+orchestration/__pycache__/*
