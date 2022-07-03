@@ -169,5 +169,4 @@ def main(train_path: Path=Path("/disk/nyc_taxi/dataset/green_tripdata_2022-01.pa
     train_model_search(train, valid, y_val)
     train_best_model(train, valid, y_val, dv)
 
-
 # main()
